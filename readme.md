@@ -42,8 +42,6 @@ Build a simple game just like Tic-Tac-Toe. This Simple Game project will allow y
 14. Note-Taking App
 Create a web-based note-taking application. This Note-Taking App project will allow users to create, edit, update and organize notes. And it also help users to store the notes on their devices. And this project help beginners to learn the concept of data storage and user interaction in web applications.
 
-Source Code: Click Here
-
 15. Pomodoro Timer
 Create a Pomodoro Technique Timer. This Pomodoro Timer project help users to manage their work and break sessions efficiently. And this project is also a practical project for beginners to improve their coding skills by implementing next level JavaScript concepts.
 
